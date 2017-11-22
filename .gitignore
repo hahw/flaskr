@@ -1,0 +1,7 @@
+# no .a file
+.a
+
+# but do track lib.a
+!lib.a
+
+*.pyc
