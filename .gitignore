@@ -4,4 +4,5 @@
 # but do track lib.a
 !lib.a
 
+# no complie file
 *.pyc
